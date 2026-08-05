@@ -5,7 +5,7 @@
   <a href="https://linkedin.com" target="_blank">
     <img src="https://shields.io" alt="LinkedIn" />
   </a>
-  <a href="https://youtube.com" target="_blank">
+  <a href="https://youtube.com" target="_blank"> 
     <img src="https://shields.io" alt="YouTube" />
   </a>
   <a href="https://udemy.com" target="_blank">
