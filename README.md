@@ -171,13 +171,18 @@ Trabalho em Equipe Multidisciplinar  [██████████████
 
 ---
 
-## 🐍 Contribution Graph & Snake Animation
-<p align="center">
-  <img src="https://githubusercontent.com" alt="Snake Animation" />
-</p>
+##  Mario Animation
+%%{init: {'theme': 'base', 'themeVariables': { 'git0': '#E52521', 'git1': '#FBD1A2', 'git2': '#002FBE', 'git3': '#E52521' }}}%%
+gitGraph
+    commit id: "World 1-1"
+    commit id: "🍄 Super Mushroom"
+    branch Mario_Run
+    checkout Mario_Run
+    commit id: "🏃‍♂️💨 Dash"
+    commit id: "Jump 🧱"
+    commit id: "⭐ Starman Power"
+    checkout main
+    merge Mario_Run id: "🏁 Level Clear!"
+    commit id: "World 1-2"
 
----
-<p align="center">
-  <b>Flávio Vinício Mota da Silva</b> — Analista e Desenvolvedor de Sistemas<br>
-  <sub>Garantindo a estabilidade ideal entre o código seguro e a infraestrutura crítica resiliente.</sub>
-</p>
+ 
