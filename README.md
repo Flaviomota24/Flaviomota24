@@ -31,7 +31,7 @@ timeline
     Formação Base : Tecnólogo em Análise e Desenvolvimento de Sistemas : Foco em Engenharia de Software e Requisitos
     Especialização I : Pós-Graduação em Engenharia de Redes e Segurança de Dados : Roteamento Dinâmico BGP e Redes Core
     Especialização II : Pós-Graduação em Segurança da Informação : Hardening de Sistemas e Auditorias ISO 27001
-    Vivência de Mercado : Operação NOC Nível 2 / SOC / Suporte B2B : Sustentação de Ambientes Críticos de Alta Disponibilidade
+    Vivência de Mercado : Operação NOC Nível 2 / SOC / Suporte B2B : Sustentação de sistemas de Ambientes Empresarial, Dsenvolvrdor web
 ```
 
 ---
@@ -40,7 +40,7 @@ timeline
 
 ### 🛠️ Hard Skills Dashboard
 ```text
-Análise e Desenvolvimento de Sistemas [████████████████████████████████████████----------------] 80%
+Análise e Desenvolvimento de Sistemas[████████████████████████████████████████----------------] 80%
 Engenharia de Redes                  [████████████████████████████████████████████------------] 85%
 Infraestrutura Lógica e Física       [████████████████████████████████████████████------------] 85%
 Segurança da Informação & Hardening  [████████████████████████████████████████----------------] 80%
@@ -84,69 +84,39 @@ Trabalho em Equipe Multidisciplinar  [██████████████
   </tr>
 </table>
 
+## 🛠️ Stack Tecnológica
+
+<div align="center">
+
+### 💻 Linguagens
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,php,mysql" />
+</p>
+
+### ⚙️ Frameworks e Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=bootstrap,git,github,vscode,linux,bash" />
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,docker" />
+</p>
+
+### 🛡️ Redes e Segurança
+
+<p>
+  <img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Active%20Directory-003366?style=for-the-badge&logo=microsoft&logoColor=white" />
+</p>
+
+</div>
+
 ---
-
-## 🛠️ Stack Tecnológica de Alta Resolução
-
-<table>
-  <tr>
-    <td align="center"><b>Linguagens & Back-end</b></td>
-    <td>
-      <img src="https://shields.io" alt="Python" />
-      <img src="https://shields.io" alt="Java" />
-      <img src="https://shields.io" alt="PHP" />
-      <img src="https://shields.io" alt="JS" />
-      <img src="https://shields.io" alt="Node" />
-      <img src="https://shields.io" alt="C++" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Dados & Cloud Architecture</b></td>
-    <td>
-      <img src="https://shields.io" alt="Oracle" />
-      <img src="https://shields.io" alt="MySQL" />
-      <img src="https://shields.io" alt="Mongo" />
-      <img src="https://shields.io" alt="AWS" />
-      <img src="https://shields.io" alt="Azure" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Segurança & SysAdmin</b></td>
-    <td>
-      <img src="https://shields.io" alt="Kali" />
-      <img src="https://shields.io" alt="Ubuntu" />
-      <img src="https://shields.io" alt="Windows Server" />
-      <img src="https://shields.io" alt="AD" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Infraestrutura & Telecom</b></td>
-    <td>
-      <img src="https://shields.io" alt="Huawei" />
-      <img src="https://shields.io" alt="FiberHome" />
-      <img src="https://shields.io" alt="Furukawa" />
-      <img src="https://shields.io" alt="BGP" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Monitoramento & Governança</b></td>
-    <td>
-      <img src="https://shields.io" alt="Zabbix" />
-      <img src="https://shields.io" alt="Grafana" />
-      <img src="https://shields.io" alt="Wireshark" />
-      <img src="https://shields.io" alt="Packet Tracer" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Compliance & Frameworks</b></td>
-    <td>
-      <img src="https://shields.io" alt="ITIL" />
-      <img src="https://shields.io" alt="COBIT" />
-      <img src="https://shields.io" alt="ISO 27001" />
-      <img src="https://shields.io" alt="LGPD" />
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -157,24 +127,3 @@ Trabalho em Equipe Multidisciplinar  [██████████████
 * 📜 **Pós-Graduação em Segurança da Informação** — *Especialização de Governança, Risco e Compliance (GRC)*
 
 ---
-
-## 📈 GitHub Analytics (Métricas do Desenvolvedor)
-
-<p align="center">
-  <img height="180" src="https://vercel.app" alt="GitHub Stats" />
-  <img height="180" src="https://vercel.app" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://herokuapp.com" alt="GitHub Streak" />
-</p>
-
-## 🍄 Mario Running
-
-<p align="center">
-  <img src="https://media.tenor.com/I6kN-6X7nhAAAAAi/mario-running.gif" width="180" alt="Mario Running">
-</p>
-
-
-
- 
