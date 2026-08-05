@@ -31,7 +31,7 @@ timeline
     Formação Base : Tecnólogo em Análise e Desenvolvimento de Sistemas : Foco em Engenharia de Software e Requisitos
     Especialização I : Pós-Graduação em Engenharia de Redes e Segurança de Dados : Roteamento Dinâmico BGP e Redes Core
     Especialização II : Pós-Graduação em Segurança da Informação : Hardening de Sistemas e Auditorias ISO 27001
-    Vivência de Mercado : Operação NOC Nível 2 / SOC / Suporte B2B : Sustentação de sistemas de Ambientes Empresarial, Dsenvolvrdor web
+    Vivência de Mercado : Operação NOC Nível 2 / SOC / Suporte B2B : Sustentação de sistemas de Ambientes Empresarial
 ```
 
 ---
