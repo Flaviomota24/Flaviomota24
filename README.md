@@ -59,66 +59,18 @@ Organização de Processos (Squads)    [█████████████�
 Trabalho em Equipe Multidisciplinar  [███████████████████████████████████████████-----------] 85%
 ```
 
----
-
-## 💼 Cards de Escopo e Experiência
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💻 Engenharia de Software</h3>
-      <ul>
-        <li><b>Desenvolvimento Web & Back-end:</b> Construção de aplicações sustentáveis sob arquitetura limpa.</li>
-        <li><b>Análise de Sistemas:</b> Modelagem estrutural, mapeamento de processos e fluxos de dados lógicos.</li>
-        <li><b>Levantamento de Requisitos:</b> Documentação analítica para alinhamento assertivo entre negócio e código.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌐 Infraestrutura & Operações</h3>
-      <ul>
-        <li><b>NOC Nível 2 & SOC:</b> Mitigação de incidentes críticos em tempo real e monitoramento analítico de eventos.</li>
-        <li><b>Redes Corporativas:</b> Gestão de tráfego, roteamento avançado e provisionamento físico e lógico.</li>
-        <li><b>Suporte B2B:</b> Tratamento técnico de alta complexidade para clientes corporativos de larga escala.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
 ## 🛠️ Stack Tecnológica
 
-<div align="center">
-
-### 💻 Linguagens
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,php,mysql" />
-</p>
-
-### ⚙️ Frameworks e Ferramentas
-
-<p>
-  <img src="https://skillicons.dev/icons?i=bootstrap,git,github,vscode,linux,bash" />
-</p>
-
-### ☁️ Cloud & DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=azure,docker" />
-</p>
-
-### 🛡️ Redes e Segurança
-
-<p>
-  <img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Active%20Directory-003366?style=for-the-badge&logo=microsoft&logoColor=white" />
-</p>
-
-</div>
-
----
-
----
+| Categoria | Tecnologias |
+|-----------|-------------|
+| 💻 Linguagens | <img src="https://skillicons.dev/icons?i=python,javascript,html,css,php" /> |
+| 🗄️ Banco de Dados | <img src="https://skillicons.dev/icons?i=mysql" /> |
+| 🎨 Front-end | <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap" /> |
+| ⚙️ Back-end | <img src="https://skillicons.dev/icons?i=python,php,nodejs" /> |
+| ☁️ Cloud | <img src="https://skillicons.dev/icons?i=azure,docker" /> |
+| 🖥️ Sistemas | <img src="https://skillicons.dev/icons?i=linux,windows" /> |
+| 🔧 Ferramentas | <img src="https://skillicons.dev/icons?i=git,github,vscode,bash" /> |
+| 🛡️ Segurança | <img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white" /> <img src="https://img.shields.io/badge/Active%20Directory-003366?style=for-the-badge&logo=microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> |
 
 ## 🎓 Formação & Certificações Acadêmicas
 
