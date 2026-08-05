@@ -1,15 +1,7 @@
-<!-- BANNER MODERN EXECUTIVE -->
-<p align="center">
-  <img src="https://vercel.app" width="100%" alt="Banner Flávio Vinício" />
-</p>
+# 👋 Olá, eu sou o **Flávio Vinício Mota da Silva**
+### **Analista e Desenvolvedor de Sistemas** | Especialista em Redes & Cybersecurity
 
-<!-- TYPING SVG INTERATIVO -->
-<p align="center">
-  <img src="https://demolab.com" alt="Typing SVG" />
-</p>
-
-<!-- BOTÕES E BADGES DE CONEXÃO PROFISSIONAL (LINKS FUNCIONAIS) -->
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com" target="_blank">
     <img src="https://shields.io" alt="LinkedIn" />
   </a>
@@ -47,25 +39,25 @@ timeline
 ## 📊 Dashboards de Habilidades (Telemetry Style)
 
 ### 🛠️ Hard Skills Dashboard
-<p align="left">
-  <img src="https://shields.io" alt="ADS" /> <br/>
-  <img src="https://shields.io" alt="Redes" /> <br/>
-  <img src="https://shields.io" alt="Infra" /> <br/>
-  <img src="https://shields.io" alt="Segurança" /> <br/>
-  <img src="https://shields.io" alt="Bancos" /> <br/>
-  <img src="https://shields.io" alt="Cloud" /> <br/>
-  <img src="https://shields.io" alt="DevSecOps" />
-</p>
+```text
+Análise e Desenvolvimento de Sistemas [████████████████████████████████████████----------------] 80%
+Engenharia de Redes                  [████████████████████████████████████████████------------] 85%
+Infraestrutura Lógica e Física       [████████████████████████████████████████████------------] 85%
+Segurança da Informação & Hardening  [████████████████████████████████████████----------------] 80%
+Modelagem de Banco de Dados          [████████████████████████████████████--------------------] 70%
+Cloud Computing (AWS / Azure)        [██████████████████████████████--------------------------] 60%
+Práticas DevSecOps                   [██████████████████████████████--------------------------] 60%
+```
 
 ### 🧠 Soft Skills Dashboard
-<p align="left">
-  <img src="https://shields.io" alt="Analítico" /> <br/>
-  <img src="https://shields.io" alt="Problemas" /> <br/>
-  <img src="https://shields.io" alt="Lifelong" /> <br/>
-  <img src="https://shields.io" alt="Comunicação" /> <br/>
-  <img src="https://shields.io" alt="Organização" /> <br/>
-  <img src="https://shields.io" alt="Equipe" />
-</p>
+```text
+Pensamento Analítico                 [███████████████████████████████████████████████████-----] 95%
+Resolução de Problemas Complexos     [████████████████████████████████████████████████--------] 90%
+Aprendizado Contínuo (Lifelong)      [███████████████████████████████████████████████████-----] 95%
+Comunicação Técnico-Corporativa      [████████████████████████████████████████----------------] 80%
+Organização de Processos (Squads)    [███████████████████████████████████████████-----------] 85%
+Trabalho em Equipe Multidisciplinar  [███████████████████████████████████████████-----------] 85%
+```
 
 ---
 
@@ -100,61 +92,58 @@ timeline
   <tr>
     <td align="center"><b>Linguagens & Back-end</b></td>
     <td>
-      <img src="https://shields.io" />
-      <img src="https://shields.io" />
-      <img src="https://shields.io" />
-      <img src="https://shields.io" />
-      <img src="https://shields.io" />
-      <img src="https://shields.io" />
+      <img src="https://shields.io" alt="Python" />
+      <img src="https://shields.io" alt="Java" />
+      <img src="https://shields.io" alt="PHP" />
+      <img src="https://shields.io" alt="JS" />
+      <img src="https://shields.io" alt="Node" />
+      <img src="https://shields.io" alt="C++" />
     </td>
   </tr>
   <tr>
     <td align="center"><b>Dados & Cloud Architecture</b></td>
     <td>
-      <img src="https://shields.io" />
-      <img src="https://shields.io" />
-      <img src="https://shields.io" />
-      <img src="https://shields.io" />
-      <img src="https://shields.io" />
+      <img src="https://shields.io" alt="Oracle" />
+      <img src="https://shields.io" alt="MySQL" />
+      <img src="https://shields.io" alt="Mongo" />
+      <img src="https://shields.io" alt="AWS" />
+      <img src="https://shields.io" alt="Azure" />
     </td>
   </tr>
   <tr>
     <td align="center"><b>Segurança & SysAdmin</b></td>
     <td>
-      <img src="https://shields.io" />
-      <img src="https://shields.io" />
-      <img src="https://shields.io" />
-      <img src="https://shields.io" />
-      <img src="https://shields.io🛡️-00D2FF?style=flat-square" />
-      <img src="https://shields.io🔍-7928CA?style=flat-square" />
+      <img src="https://shields.io" alt="Kali" />
+      <img src="https://shields.io" alt="Ubuntu" />
+      <img src="https://shields.io" alt="Windows Server" />
+      <img src="https://shields.io" alt="AD" />
     </td>
   </tr>
   <tr>
     <td align="center"><b>Infraestrutura & Telecom</b></td>
     <td>
-      <img src="https://shields.io🎛️-CC292B?style=flat-square" />
-      <img src="https://shields.io🌐-FF8C00?style=flat-square" />
-      <img src="https://shields.io🔌-00599C?style=flat-square" />
-      <img src="https://shields.io⚡-22c55e?style=flat-square" />
+      <img src="https://shields.io" alt="Huawei" />
+      <img src="https://shields.io" alt="FiberHome" />
+      <img src="https://shields.io" alt="Furukawa" />
+      <img src="https://shields.io" alt="BGP" />
     </td>
   </tr>
   <tr>
     <td align="center"><b>Monitoramento & Governança</b></td>
     <td>
-      <img src="https://shields.io" />
-      <img src="https://shields.io" />
-      <img src="https://shields.io" />
-      <img src="https://shields.io" />
+      <img src="https://shields.io" alt="Zabbix" />
+      <img src="https://shields.io" alt="Grafana" />
+      <img src="https://shields.io" alt="Wireshark" />
+      <img src="https://shields.io" alt="Packet Tracer" />
     </td>
   </tr>
   <tr>
     <td align="center"><b>Compliance & Frameworks</b></td>
     <td>
-      <img src="https://shields.io" />
-      <img src="https://shields.io" />
-      <img src="https://shields.io" />
-      <img src="https://shields.io" />
-      <img src="https://shields.io" />
+      <img src="https://shields.io" alt="ITIL" />
+      <img src="https://shields.io" alt="COBIT" />
+      <img src="https://shields.io" alt="ISO 27001" />
+      <img src="https://shields.io" alt="LGPD" />
     </td>
   </tr>
 </table>
@@ -173,3 +162,22 @@ timeline
 
 <p align="center">
   <img height="180" src="https://vercel.app" alt="GitHub Stats" />
+  <img height="180" src="https://vercel.app" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://herokuapp.com" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🐍 Contribution Graph & Snake Animation
+<p align="center">
+  <img src="https://githubusercontent.com" alt="Snake Animation" />
+</p>
+
+---
+<p align="center">
+  <b>Flávio Vinício Mota da Silva</b> — Analista e Desenvolvedor de Sistemas<br>
+  <sub>Garantindo a estabilidade ideal entre o código seguro e a infraestrutura crítica resiliente.</sub>
+</p>
