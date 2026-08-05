@@ -59,18 +59,19 @@ Organização de Processos (Squads)    [█████████████�
 Trabalho em Equipe Multidisciplinar  [███████████████████████████████████████████-----------] 85%
 ```
 
-## 🛠️ Stack Tecnológica
-
 | Categoria | Tecnologias |
 |-----------|-------------|
-| 💻 Linguagens | <img src="https://skillicons.dev/icons?i=python,javascript,html,css,php" /> |
-| 🗄️ Banco de Dados | <img src="https://skillicons.dev/icons?i=mysql" /> |
+| 💻 Linguagens | <img src="https://skillicons.dev/icons?i=java,python,javascript,php,html,css,bash" /> |
 | 🎨 Front-end | <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap" /> |
-| ⚙️ Back-end | <img src="https://skillicons.dev/icons?i=python,php,nodejs" /> |
-| ☁️ Cloud | <img src="https://skillicons.dev/icons?i=azure,docker" /> |
-| 🖥️ Sistemas | <img src="https://skillicons.dev/icons?i=linux,windows" /> |
-| 🔧 Ferramentas | <img src="https://skillicons.dev/icons?i=git,github,vscode,bash" /> |
-| 🛡️ Segurança | <img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white" /> <img src="https://img.shields.io/badge/Active%20Directory-003366?style=for-the-badge&logo=microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> |
+| ⚙️ Back-end | <img src="https://skillicons.dev/icons?i=java,python,php,nodejs" /> |
+| 🗄️ Banco de Dados | <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" /> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" /> |
+| ☁️ Cloud | <img src="https://skillicons.dev/icons?i=aws,azure,docker" /> |
+| 🖥️ Sistemas | <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,debian,kali" /> |
+| 🌐 Redes | <img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white" /> <img src="https://img.shields.io/badge/Active%20Directory-003366?style=for-the-badge&logo=microsoft&logoColor=white" /> |
+| 🛡️ Segurança | <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" /> |
+| 📊 BI | <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> |
+| 💼 Microsoft | <img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" /> |
+| 🔧 Ferramentas | <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,sublime,git,github,postman" /> |
 
 ## 🎓 Formação & Certificações Acadêmicas
 
