@@ -1,188 +1,115 @@
-<h1 align="center">Olá 👋, eu sou Flávio Vinício Mota da Silva</h1>
+# 👋 Olá, eu sou o **Flávio Vinício Mota da Silva**
+### **Analista e Desenvolvedor de Sistemas** | Especialista em Engenharia de Redes & Segurança da Informação
 
-<h3 align="center">
-Analista e Desenvolvedor de Sistemas • Especialista em Segurança da Informação • DevSecOps • Engenheiro de Redes
-</h3>
-
----
-
-# Flávio Vinício aqui 👋
-
-Sou um profissional apaixonado por tecnologia, segurança da informação e desenvolvimento de software.
-
-Atualmente atuo como **Analista e Desenvolvedor de Sistemas**, com experiência em infraestrutura corporativa, monitoramento de ambientes críticos, desenvolvimento seguro e engenharia de redes.
-
-Durante minha carreira trabalhei nas áreas de:
-
-- 🖥️ Infraestrutura de Redes (NOC Nível 2)
-- 🛡️ Security Operations Center (SOC)
-- 📋 Análise de Requisitos
-- 💻 Desenvolvimento de Sistemas Web
-- 🤝 Suporte Corporativo B2B em todo o estado do Tocantins
-- ☁️ Cloud Computing
-- 🔒 Segurança da Informação
-- 🚀 DevSecOps
-
----
-
-## 👨‍🎓 Formação
-
-- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas
-- 🎓 Pós-Graduado em Engenharia de Redes e Segurança de Dados
-- 🎓 Pós-Graduado em Segurança da Informação
-
----
-
-## 👨‍🏫 Atualmente
-
-- 🎓 Instrutor da Udemy
-- 📺 Criador do canal **Meu TI**
-
-Meu conteúdo é voltado para:
-
-- Segurança da Informação
-- Desenvolvimento Seguro
-- DevSecOps
-- Redes Corporativas
-- Cloud Computing
-- Desenvolvimento Web
-- Engenharia de Software
-- Carreira em TI
-
----
-
-## 🚀 Atualmente focado em
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python" height="50"/>
-
-<img src="https://skillicons.dev/icons?i=java" height="50"/>
-
-<img src="https://skillicons.dev/icons?i=cpp" height="50"/>
-
-<img src="https://skillicons.dev/icons?i=php" height="50"/>
-
-<img src="https://skillicons.dev/icons?i=nodejs" height="50"/>
-
-<img src="https://skillicons.dev/icons?i=js" height="50"/>
-
-<img src="https://skillicons.dev/icons?i=mysql" height="50"/>
-
-<img src="https://skillicons.dev/icons?i=mongodb" height="50"/>
-
-<img src="https://skillicons.dev/icons?i=aws" height="50"/>
-
-<img src="https://skillicons.dev/icons?i=azure" height="50"/>
-
-<img src="https://skillicons.dev/icons?i=linux" height="50"/>
-
-<img src="https://skillicons.dev/icons?i=ubuntu" height="50"/>
-
-<img src="https://skillicons.dev/icons?i=windows" height="50"/>
-
-<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
-
-<img src="https://skillicons.dev/icons?i=git" height="50"/>
-
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-
+<p align="center">
+  <img src="https://demolab.com" alt="Typing SVG" />
 </p>
 
 ---
 
-# 🛠️ Competências
-
-### 💻 Desenvolvimento
-
-- Python
-- Java
-- C++
-- PHP 8
-- JavaScript
-- Node.js
-
-### 🗄️ Banco de Dados
-
-- Oracle Database
-- MySQL
-- MongoDB
-
-### ☁️ Cloud
-
-- AWS
-- Microsoft Azure
-
-### 🔐 Segurança da Informação
-
-- Kali Linux
-- Ubuntu Server
-- Windows Server
-- Active Directory
-- Hardening
-- Pentest
-- Análise de Vulnerabilidades
-
-### 🌐 Redes
-
-- BGP
-- Huawei
-- Furukawa
-- FiberHome
-- Cabeamento Estruturado
-- Projetos de Redes
-
-### 📊 Monitoramento
-
-- Grafana
-- Zabbix
-- Nmap
-- Wireshark
-- Packet Tracer
-
-### 📚 Frameworks
-
-- ITIL
-- COBIT
-- LGPD
-- ISO 27001
-- Métodos Ágeis
+## 🚀 Sobre Mim
+Profissional sênior focado na convergência entre **Desenvolvimento de Sistemas**, **Infraestrutura de Redes** e **Segurança Cibernética**. Minha atuação é pautada na arquitetura de softwares seguros, robustos e escaláveis, integrando práticas modernas de engenharia com metodologias ágeis e governança de TI. Atuo no desenho e sustentação de ecossistemas corporativos complexos, garantindo alta disponibilidade, otimização de tráfego e conformidade normativa.
 
 ---
 
-# 🌎 Você também me encontra em
+## 📈 Dashboard de Habilidades & Métricas
 
-<p align="left">
+### 📊 Hard Skills
+```text
+Análise e Desenvolvimento de Sistemas [████████████████████████████████████████----------------] 80%
+Engenharia de Redes                  [████████████████████████████████████████████------------] 85%
+Infraestrutura                       [████████████████████████████████████████████------------] 85%
+Segurança da Informação              [████████████████████████████████████████----------------] 80%
+Banco de Dados                       [████████████████████████████████████--------------------] 70%
+Cloud Computing                      [██████████████████████████████--------------------------] 60%
+DevSecOps                            [██████████████████████████████--------------------------] 60%
+```
 
-<a href="https://www.linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+### 🧠 Soft Skills
+```text
+Pensamento Analítico                 [███████████████████████████████████████████████████-----] 95%
+Resolução de Problemas               [████████████████████████████████████████████████--------] 90%
+Aprendizado Contínuo                 [███████████████████████████████████████████████████-----] 95%
+Comunicação Técnico-Corporativa      [████████████████████████████████████████----------------] 80%
+Organização                          [█████████████████████████████████████████████-----------] 85%
+Trabalho em Equipe                   [█████████████████████████████████████████████-----------] 85%
+```
 
-<a href="https://youtube.com">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
+---
 
-<a href="https://www.udemy.com">
-<img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"/>
-</a>
+## 🛠️ Stack Tecnológica
 
+| Categoria | Tecnologias e Ecossistema |
+| :--- | :--- |
+| **Linguagens & Back-end** | ![Python](https://shields.io) ![Java](https://shields.io) ![PHP](https://shields.io) ![JavaScript](https://shields.io) ![Node.js](https://shields.io) ![C++](https://shields.io) |
+| **Banco de Dados** | ![Oracle](https://shields.io) ![MySQL](https://shields.io) ![MongoDB](https://shields.io) |
+| **Nuvem & Cloud** | ![AWS](https://shields.io) ![Azure](https://shields.io) |
+| **Segurança & SysAdmin** | ![Kali Linux](https://shields.io) ![Ubuntu Server](https://shields.io) ![Windows Server](https://shields.io) Active Directory \| Hardening \| Nmap |
+| **Infraestrutura & Redes** | Huawei \| FiberHome \| Furukawa \| **BGP** \| Telecomunicações |
+| **Monitoramento & Análise** | ![Grafana](https://shields.io) ![Zabbix](https://shields.io) Wireshark \| Cisco Packet Tracer |
+| **Frameworks & Compliance** | ITIL \| COBIT \| **ISO 27001** \| **LGPD** \| Metodologias Ágeis (Scrum/Kanban) |
+
+---
+
+## 📈 Métricas de Engenharia
+
+<p align="center">
+  <img height="180" src="https://vercel.app" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://vercel.app" alt="Linguagens mais usadas" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://herokuapp.com" alt="GitHub Streak" />
+</p>
+
+> _Nota: Substitua `SEU_USUARIO_GITHUB` pelo seu username real do GitHub para ativar os coletores dinâmicos de dados._
+
+---
+
+## 🗺️ Linha do Tempo Profissional
+
+```mermaid
+timeline
+    title Trajetória Acadêmica e Áreas de Atuação
+    Graduação : Análise e Desenvolvimento de Sistemas : Foco em Engenharia de Software e Requisitos
+    Pós-Graduação I : Engenharia de Redes e Segurança de Dados : Roteamento avançado BGP e provisionamento core
+    Pós-Graduação II : Segurança da Informação : Hardening de Servidores e Auditorias Baseadas na ISO 27001
+    Experiência Prática : NOC Nível 2 / SOC / Suporte B2B : Monitoramento analítico de alta criticidade
+```
+
+### 💼 Áreas de Competência Estratégica
+- **Desenvolvimento Web & Back-end:** Código estruturado sob princípios de arquitetura limpa em ecossistemas modernos.
+- **Análise de Sistemas & Requisitos:** Engenharia reversa, análise preditiva e documentação técnica para alinhamento operacional.
+- **NOC Avançado (Nível 2) & SOC:** Mitigação de incidentes em tempo real e orquestração de resiliência corporativa.
+- **Telecom & Infraestrutura Física/Lógica:** Provisionamento de redes usando ativos críticos das linhas Huawei, FiberHome e Furukawa.
+
+---
+
+## 🌟 Projetos em Destaque
+
+1. **🔒 Enterprise DevSecOps Pipeline**
+   - Automação robusta de segurança em esteiras de integração contínua (CI/CD) com análise estática de vulnerabilidades estruturais.
+2. **📊 Telemetry Core Engine**
+   - Orquestrador inteligente de coletas integrado a APIs de roteadores BGP e ativos ópticos para plotagem dinâmica via Zabbix/Grafana.
+3. **🛡️ Corporate Hardening Framework**
+   - Suite de scripts automatizados de conformidade e mitigação para servidores empresariais alinhados com a ISO 27001 e a LGPD.
+
+---
+
+## 🐍 Git Snake Grid Animation
+<p align="center">
+  <img src="https://githubusercontent.com" alt="Snake Animation" />
 </p>
 
 ---
 
-# 📌 Áreas de Interesse
+## 🤝 Contato Profissional
 
-- DevSecOps
-- Segurança Ofensiva
-- Segurança Defensiva
-- Cloud Security
-- Engenharia de Redes
-- Inteligência Artificial
-- Desenvolvimento Web Seguro
-- Arquitetura de Software
-- Engenharia de Software
-- Infraestrutura Corporativa
+<p align="center">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
-
-> *"A melhor forma de proteger um sistema é entendê-lo profundamente."*
+<p align="center">Desenvolvido sob padrões modernos de design e arquitetura limpa.</p>
