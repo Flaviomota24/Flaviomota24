@@ -169,20 +169,12 @@ Trabalho em Equipe Multidisciplinar  [██████████████
   <img height="165" src="https://herokuapp.com" alt="GitHub Streak" />
 </p>
 
----
+## 🍄 Mario Running
 
-##  Mario Animation
-%%{init: {'theme': 'base', 'themeVariables': { 'git0': '#E52521', 'git1': '#FBD1A2', 'git2': '#002FBE', 'git3': '#E52521' }}}%%
-gitGraph
-    commit id: "World 1-1"
-    commit id: "🍄 Super Mushroom"
-    branch Mario_Run
-    checkout Mario_Run
-    commit id: "🏃‍♂️💨 Dash"
-    commit id: "Jump 🧱"
-    commit id: "⭐ Starman Power"
-    checkout main
-    merge Mario_Run id: "🏁 Level Clear!"
-    commit id: "World 1-2"
+<p align="center">
+  <img src="https://media.tenor.com/I6kN-6X7nhAAAAAi/mario-running.gif" width="180" alt="Mario Running">
+</p>
+
+
 
  
